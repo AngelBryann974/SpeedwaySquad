@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: c480f5344e78b71489aac36d645fc36b
+  - enabled: 1
+    path: Assets/Scenes/Track 01 Historia.unity
+    guid: 83dac26e0e5a4034e9b11f3ac785e98c
+  - enabled: 1
+    path: Assets/Scenes/Drift Track.unity
+    guid: e82a0c7cf6aa6504daa551b17979d57e
+  - enabled: 1
+    path: Assets/Scenes/Sprint Track Final.unity
+    guid: 8aea2c8c9d383744fa38154ae52bdfc7
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: f6a21055ccb55404093bdb914bf9fd37
+  m_configObjects: {}
